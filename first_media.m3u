@@ -21,7 +21,7 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd|Refe
 #KODIPROP:inputstream.adaptive.license_key=a31cf5136789514b7e12b9cc99307c84:980e54d671ffc2b2f4cf54e75cae0ac2
 https://dsgtq5sngxkde.cloudfront.net/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd|Referer=https://www.visionplus.id/&user-agent=Android
 
-#EXTINF:-1 group-title="🔴TV DIGITAL NASIONAL" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/SCTV-1.png", SCTV
+#EXTINF:-1 group-title="🔴TV DIGITAL NASIONAL" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/SCTV-1.png", 02 SCTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 
@@ -77,9 +77,6 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/Streaming/indonesia/btv
 #KODIPROP:inputstream.adaptive.license_key=828e0aba9825c3546a2831e4c0c36f7f:f85d3dcd38981368ab3da597e97ebdcc
 https://dsgtq5sngxkde.cloudfront.net/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd|Referer=https://www.visionplus.id/&user-agent=Android
 
-#EXTINF:-1 tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be4997e958db/e02f3053b96f4349ad8402d7b181d273.jpg" group-title="🔴TV DIGITAL NASIONAL",CNN INDONESIA
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/MagnaChannel.png" group-title="🔴TV DIGITAL NASIONAL",Magna Channel
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 
@@ -88,6 +85,9 @@ https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=493fd10e609dd02ae97964f438e7e530:695cf9896182c52f1c3a25820e7778f5
 https://dsgtq5sngxkde.cloudfront.net/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd|Referer=https://www.visionplus.id/&user-agent=Android
+
+#EXTINF:-1 group-title="🔴TV DIGITAL NASIONAL" tvg-logo="https://i.imgur.com/fdygcVx.png", Berita Satu (Bikinan Sendiri) 
+https://cdn12jtedge.indihometv.com/joss/134/idtv/chunklist_w1265170519_b1244100_sleng.m3u8?enc=irY4yzxJw-x9q0JpipWu8g&uid=&exp=1743607623
 
 ==========================================================
 #EXTINF:-1 group-title="🔴NASIONAL" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjxw6WRd9xYbW32DdRtj_Ss1zxwzbZdqoe_mECGfdY7kdD56GphocBouJKs3yAUt8yg1rWI-0eHCgCdYYX8AQOqH0-Hz3egnZ_Tc5tiGl223c5a6DLSYpuumq5satujOP_0Y7Dyron_DPfs15Rw_E3Oe9UJ3Fvv2sc8YTv3gqig7p3RboYEfkOG4aV5QbE", MNCTV 
