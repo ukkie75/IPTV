@@ -37,10 +37,15 @@ https://raw.githubusercontent.com/warningfm/streams/master/live/m3u8/id/b630a001
 #KODIPROP:inputstream.adaptive.license_key=90204c05545f95a262bb0d3ac45de870:0e80f2a19fdf8da476bf695cd9570bb2
 https://dsgtq5sngxkde.cloudfront.net/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mpd|Referer=https://www.visionplus.id/&user-agent=Android
 
-#EXTINF:-1 group-title="🔴TV DIGITAL NASIONAL" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/net-1.png", 12 NET
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-https://cempedak-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
+==#EXTINF:-1 group-title="🔴TV DIGITAL NASIONAL" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/net-1.png", 12 NET
+==#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+==#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+==https://cempedak-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
+
+#EXTINF:-1 tvg-id="13" tvg-logo="https://mantul.biz.id:443/images/Bh_KsKKmAFbCbf59m4eiZIWNpl71WJ-N2srJ_e6Sch8neanq0wH_u5dVBHwxwTVKQInQYGBEd9vWf1TFi4ez5Q.png" group-title="🔴TV DIGITAL NASIONAL", NET.
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservesd-1.dens.tv/h/h06/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=NET.
 
 #EXTINF:-1 group-title="🔴TV DIGITAL NASIONAL" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/rtv-1.png", RTV 
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
