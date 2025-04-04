@@ -114,8 +114,37 @@ https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 
-
 ==========================================================
+
+#EXTINF:-1 group-title="📺MOVIE NASIONAL📺"  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhI1fKaOepEpqR_E-56pimzEjBj8vH0Xfa7MDkIphFS9XIxRLDCPAjPX3q87Foy_jPAmFIEl7cze-LmLPivh8Q8oyvp1Bte2c5hOEwUzvQl9LeYS_i7eW5eUeA2ANJdUx918Obpj4bX38gGy-h3VE6J4RIvPNEfoPl_ua0FnVXeFrsUJu9xw2ujMtX4Hokp/s700/MAXSTREAM.jpeg",⭐ MAXSTREAM
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
+
+#EXTINF:-1 group-title="📺MOVIE NASIONAL📺" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_14.png",IMC 
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1a551e30ef88a5a121dcea6a74a3aee7:b0f3de006d6e31e967a5bc41be086e64
+https://cempedak-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
+
+#EXTINF:-1 tvg-id="Flik.id" tvg-logo="https://iili.io/JmnyrVs.png" group-title="📺MOVIE NASIONAL📺",Flik
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/133/flik/manifest.mpd
+
+#EXTINF:-1 group-title="📺MOVIE NASIONAL📺" tvg-logo="https://thumbor.prod.vidiocdn.com/AC-3tXEL_aNdU-jHErZHxSrazrk=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6684/citra-bioskop-2be866.jpg",Citra Bioskop
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=94788bc937054090b216dc101e5fa5dc:297c97962ff8d9e99f1da178ea0083ec
+https://atemecdnbalancer-voe.sysln.id/live/eds/CitraBioskopHD/mpd/CitraBioskopHD.mpd
+
+
+==================================================
+
+
+
 #EXTINF:-1 group-title="🔴NASIONAL" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjxw6WRd9xYbW32DdRtj_Ss1zxwzbZdqoe_mECGfdY7kdD56GphocBouJKs3yAUt8yg1rWI-0eHCgCdYYX8AQOqH0-Hz3egnZ_Tc5tiGl223c5a6DLSYpuumq5satujOP_0Y7Dyron_DPfs15Rw_E3Oe9UJ3Fvv2sc8YTv3gqig7p3RboYEfkOG4aV5QbE", MNCTV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
