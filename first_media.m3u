@@ -115,7 +115,7 @@ https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 http://cempedak-live-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd
 
 
-#EXTINF:-1 tvg-id="beritasatu.macan" tvg-logo="https://i.imgur.com/7kmah7J.png" group-title="🔴TV DIGITAL NASIONALL", BTV
+#EXTINF:-1 tvg-id="beritasatu.macan" tvg-logo="https://i.imgur.com/7kmah7J.png" group-title="🔴TV DIGITAL NASIONAL", BTV
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 
 ==#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/BTV_%28Indonesia%29_logo.svg/244px-BTV_%28Indonesia%29_logo.svg.png" group-title="🔴TV DIGITAL NASIONAL", BTV
@@ -126,10 +126,6 @@ https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 
 =====#EXTINF:-1 group-title="🔴TV DIGITAL NASIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/BTV_%28Indonesia%29_logo.svg/244px-BTV_%28Indonesia%29_logo.svg.png", BTV 
 =====https://raw.githubusercontent.com/mimipipi22/lalajo/main/Streaming/indonesia/btv.m3u8
-
-#EXTINF:-1 tvg-id="beritasatu.macan" tvg-logo="https://i.imgur.com/7kmah7J.png" group-title="🔴TV DIGITAL NASIONAL", BTV
-https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
-
 
 #EXTINF:-1 group-title="🔴TV DIGITAL NASIONAL" tvg-logo="https://i.imgur.com/irQoFrd.png", TVRI NASIONAL
 #EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
