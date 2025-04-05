@@ -148,7 +148,8 @@ http://op-group1-swiftservehd-1.dens.tv/h/h39/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://iili.io/JMp3DJf.png" group-title="🔴TV DIGITAL NASIONAL",TVRI World
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld-avc1_1500000=10003-mp4a_96000_eng=20003.m3u8
 
-
+#EXTINF:-1 group-title="🔴TV DIGITAL NASIONAL"  group-logo="https://i.ibb.co.com/B6FStGg/unnamed-1.png" tvg-logo="https://images.indihometv.com/logo_antara_big1.png",ANTARA[TES]
+https://cdn12jtedge.indihometv.com/atm/DASH/antara/manifest.mpd
 
 ==========================================================
 
@@ -179,9 +180,10 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CitraBioskopHD/mpd/CitraBioskopHD
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/jMnXKwy/Picsart-23-06-12-23-01-03-508.jpg" group-title="📺MOVIE NASIONAL📺", DUNIA SINEMA
 https://unifi-live01.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
 
-#EXTINF:-1 tvg-id="BioskopIndonesia.id" tvg-name="bioskop indonesia" tvg-logo="https://mantul.biz.id:443/images/S3qjABwxNNrSZo8bz52n6WLRCGvxOa1GP3TWmrz2yelUQsOZCoZpu14hE9zMwSwQAG9z2Klkc-Syw8U7nGXF4A.png" group-title="📺MOVIE NASIONAL📺",Bioskop Indonesia 1
-#EXTVLCOPT:http-user-agent=xplayer168
-https://dl.dropboxusercontent.com/scl/fi/n0il57l6j01oyj3afg8gv/bioskopindonesia-2.m3u8?rlkey=c5j5kx7kypij34srg4lqu79mq&st=pkaf44io
+#EXTINF:-1 group-title="📺MOVIE NASIONAL📺"  group-logo="https://i.ibb.co.com/B6FStGg/unnamed-1.png" tvg-logo="https://images.indihometv.com/logo_bioskopindonesia_small1.png?v=2.0.0.13",BIOSKOP INDONESIA[INDIHOME]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/130/bioskopindonesia/manifest.mpd
 
 #EXTINF:-1 group-title="📺MOVIE NASIONAL📺" tvg-logo="https://thumbor.prod.vidiocdn.com/aJwZXOGQIYcrqar3MBE9Ehnqgww=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6401/citra-drama-d931f4.jpg",Citra Drama
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
