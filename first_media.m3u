@@ -2453,8 +2453,8 @@ http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/264761
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/264761
 http://iptvtree.net:8080/F26646/f950f250/264761
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/kXM7CvP/Picsart-24-05-02-06-04-13-095.jpg" group-title="Music", POP MUSIK
-https://play.accolamedia.id/accola/popmusic.stream/playlist.m3u8
+==#EXTINF:-1 tvg-logo="https://i.ibb.co.com/kXM7CvP/Picsart-24-05-02-06-04-13-095.jpg" group-title="Music", POP MUSIK
+==https://play.accolamedia.id/accola/popmusic.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/HtcsrLv/Picsart-24-05-02-06-06-39-541.jpg" group-title="Music", MALEO
 https://play.accolamedia.id/accola/maleo.stream/playlist.m3u8
@@ -2465,11 +2465,6 @@ https://play.accolamedia.id/accola/maleo.stream/playlist.m3u8
 EXTINF:-1 tvg-logo="https://i.ibb.co.com/QQjngRr/Musik-Indo.jpg" group-title="Music", MUSIK INDONESIA
 https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c685730a4243017317dee5df1572/manifest.mpd
 
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu-jos.fiqriaw8.workers.dev/dcub
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/vdrhtf9/Smart-Select-20230611-122931-Picsart.jpg" group-title="Music", NUSANTARA
-https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c685758bcfff0175ab9d2b374926/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/BLtnxMj/MIC-tv.jpg" group-title="Music", MUSIC INFORMATION CHANNEL
 https://v2.siar.us/mic/live/playlist.m3u8
