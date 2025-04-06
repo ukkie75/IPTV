@@ -2374,99 +2374,7 @@ https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
 #EXTINF:-1 tvg-id="CGTN Documentary - [Channel 205].id" tvg-logo="https://iili.io/JmoChs2.png" group-title="🐵SCIENCE & DOCUMENTARY",CGTN Documentary
 https://english-livebkws.cgtn.com/live/doccgtn_0.m3u8
 
-======================
-
-#EXTINF:-1 tvg-logo="https://iili.io/JmF1BWb.png" group-title="TVRI DAERAH",TVRI Aceh
-https://ott-balancer.tvri.go.id/live/eds/Aceh/hls/Aceh.m3u8
- 
-#EXTINF:-1 tvg-logo="https://iili.io/JmF1x0Q.png" group-title="TVRI DAERAH",TVRI Bali
-https://ott-balancer.tvri.go.id/live/eds/Bali/hls/Bali.m3u8
- 
-#EXTINF:-1 tvg-logo="https://iili.io/JmF1zgV.png" group-title="TVRI DAERAH",TVRI Bangka Belitung
-https://ott-balancer.tvri.go.id/live/eds/Babel/hls/Babel.m3u8
- 
-#EXTINF:-1 tvg-logo="https://iili.io/JmF1TdB.png" group-title="TVRI DAERAH",TVRI Bengkulu
-https://ott-balancer.tvri.go.id/live/eds/Bengkulu/hls/Bengkulu.m3u8
- 
-#EXTINF:-1 tvg-logo="https://iili.io/JmF1Ae1.png" group-title="TVRI DAERAH",TVRI Gorontalo
-https://ott-balancer.tvri.go.id/live/eds/Gorontalo/hls/Gorontalo.m3u8
- 
-#EXTINF:-1 tvg-logo="https://iili.io/JmF17zg.png" group-title="TVRI DAERAH",TVRI Jakarta
-https://ott-balancer.tvri.go.id/live/eds/DKI/hls/DKI.m3u8
- 
-#EXTINF:-1 tvg-logo="https://iili.io/JmF1RmF.png" group-title="TVRI DAERAH",TVRI Jambi
-https://ott-balancer.tvri.go.id/live/eds/Jambi/hls/Jambi.m3u8
- 
-#EXTINF:-1 tvg-logo="https://iili.io/JmF1YXa.png" group-title="TVRI DAERAH",TVRI Jawa Barat
-https://ott-balancer.tvri.go.id/live/eds/Jabar/hls/Jabar.m3u8
- 
-#EXTINF:-1 tvg-logo="https://iili.io/JmF1GdN.png" group-title="TVRI DAERAH",TVRI Jawa Tengah
-https://ott-balancer.tvri.go.id/live/eds/Jateng/hls/Jateng.m3u8
- 
-#EXTINF:-1 tvg-logo="https://iili.io/JmF101R.png" group-title="TVRI DAERAH",TVRI Jawa Timur
-https://ott-balancer.tvri.go.id/live/eds/Jatim/hls/Jatim.m3u8
- 
-#EXTINF:-1 tvg-logo="https://iili.io/JmF1M7I.png" group-title="TVRI DAERAH",TVRI Kalimantan Barat
-https://ott-balancer.tvri.go.id/live/eds/Kalbar/hls/Kalbar.m3u8
- 
-#EXTINF:-1 tvg-logo="https://iili.io/JmF1WmX.png" group-title="TVRI DAERAH",TVRI Kalimantan Selatan
-https://ott-balancer.tvri.go.id/live/eds/Kalsel/hls/Kalsel.m3u8
- 
-#EXTINF:-1 tvg-logo="https://iili.io/JmF1hIn.png" group-title="TVRI DAERAH",TVRI Kalimantan Tengah
-https://ott-balancer.tvri.go.id/live/eds/Kalteng/hls/Kalteng.m3u8
- 
-#EXTINF:-1 tvg-logo="https://iili.io/JmF1jXs.png" group-title="TVRI DAERAH",TVRI Kalimantan Timur
-https://ott-balancer.tvri.go.id/live/eds/Kaltim/hls/Kaltim.m3u8
- 
-#EXTINF:-1 tvg-logo="https://iili.io/JmF1krl.png" group-title="TVRI DAERAH",TVRI Lampung
-https://ott-balancer.tvri.go.id/live/eds/Lampung/hls/Lampung.m3u8
- 
-#EXTINF:-1 tvg-logo="https://iili.io/JmF1wLG.png" group-title="TVRI DAERAH",TVRI Maluku
-https://ott-balancer.tvri.go.id/live/eds/Ambon/hls/Ambon.m3u8
- 
-#EXTINF:-1 tvg-logo="https://iili.io/JmF1e14.png" group-title="TVRI DAERAH",TVRI NTB
-https://ott-balancer.tvri.go.id/live/eds/NTB/hls/NTB.m3u8
- 
-#EXTINF:-1 tvg-logo="https://iili.io/JmF1gp9.png" group-title="TVRI DAERAH",TVRI NTT
-https://ott-balancer.tvri.go.id/live/eds/NTT/hls/NTT.m3u8
- 
-#EXTINF:-1 tvg-logo="https://iili.io/JmF1822.png" group-title="TVRI DAERAH",TVRI Papua
-https://ott-balancer.tvri.go.id/live/eds/Papua/hls/Papua.m3u8
- 
-#EXTINF:-1 tvg-logo="https://iili.io/d9HAivV.png" group-title="TVRI DAERAH",TVRI Papua Barat
-https://ott-balancer.tvri.go.id/live/eds/Pabar/hls/Pabar.m3u8
- 
-#EXTINF:-1 tvg-logo="https://iili.io/JmF1S7S.png" group-title="TVRI DAERAH",TVRI Riau
-https://ott-balancer.tvri.go.id/live/eds/Riau/hlstl/Riau.m3u8
- 
-#EXTINF:-1 tvg-logo="https://iili.io/JmF1PLb.png" group-title="TVRI DAERAH",TVRI Sulawesi Barat
-https://ott-balancer.tvri.go.id/live/eds/Sulbar/hls/Sulbar.m3u8
- 
-#EXTINF:-1 tvg-logo="https://iili.io/JmF16hu.png" group-title="TVRI DAERAH",TVRI Sulawesi Selatan
-https://ott-balancer.tvri.go.id/live/eds/Sulsel/hls/Sulsel.m3u8
- 
-#EXTINF:-1 tvg-logo="https://iili.io/JmF1t2V.png" group-title="TVRI DAERAH",TVRI Sulawesi Tengah
-https://ott-balancer.tvri.go.id/live/eds/Sulteng/hls/Sulteng.m3u8
- 
-#EXTINF:-1 tvg-logo="https://iili.io/JmF1Kbe.png" group-title="TVRI DAERAH",TVRI Sulawesi Tenggara
-https://ott-balancer.tvri.go.id/live/eds/Sultra/hls/Sultra.m3u8
- 
-#EXTINF:-1 tvg-logo="https://iili.io/JmF1Fe9.png" group-title="TVRI DAERAH",TVRI Sulawesi Utara
-https://ott-balancer.tvri.go.id/live/eds/Sulut/hls/Sulut.m3u8
- 
-#EXTINF:-1 tvg-logo="https://iili.io/JmF1357.png" group-title="TVRI DAERAH",TVRI Sumatera Barat
-https://ott-balancer.tvri.go.id/live/eds/Sumbar/hls/Sumbar.m3u8
- 
-#EXTINF:-1 tvg-logo="https://iili.io/JmF12JS.png" group-title="TVRI DAERAH",TVRI Sumatera Selatan
-https://ott-balancer.tvri.go.id/live/eds/Sumsel/hls/Sumsel.m3u8
- 
-#EXTINF:-1 tvg-logo="https://iili.io/JmF1oqx.png" group-title="TVRI DAERAH",TVRI Sumatera Utara
-https://ott-balancer.tvri.go.id/live/eds/Sumut/hls/Sumut.m3u8
- 
-#EXTINF:-1 tvg-logo="https://iili.io/JmF1Csj.png" group-title="TVRI DAERAH",TVRI Yogyakarta
-https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta.m3u8
-
-=================
+=========================================================================================================================================
 #EXTINF:-1 tvg-id="701.astro" tvg-logo="https://iili.io/JZIBmlf.png" group-title="🎉GENERAL ENTERTAINMENT",AXN
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c5d5297a84f8b2de977f07286345c591:bdb773d6d25303b75a396b8040cfaf8c
@@ -2525,29 +2433,11 @@ https://atemeshield1-voe.sysln.id/live/eds/HITSNowHD/mpd/HITSNowHD.mpd
 #KODIPROP:inputstream.adaptive.license_key=78d17d4851a5e9eede96f283b15ec053:c5ae33f70cc967fe107b35eb7225f52a
 #EXTVLCOPT:http-referrer=https://visionplus.id/
 https://d1abp075u76pbq.cloudfront.net/live/eds/HITS/sa_dash_vmx/HITS.mpd
- ======================================
+ =======================================================================================================================
 
 
-#EXTINF:-1 tvg-id="" tvg-name="ID| MNC MUSLIM TV HD" tvg-logo="https://lo1.in/indo/mus2.png" group-title="Music",MNC MUSLIM TV HD
-http://exm3u.extraott.com:900/live/H8M38PVP/GWAVW3MR/45074.m3u8
-#EXTINF:-1 tvg-id="Music TV - [Channel 111].id" tvg-logo="https://www.visionplus.id/images/repository/009/50009-SNAPSHOT-l.png" group-title="Music",Music TV
-https://cempedak-live-cdn.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
-#EXTINF:-1 tvg-name="id: music tv" tvg-logo="https://mantul.biz.id:443/images/mg9e4VnU5MiobcDarwnBsVSJmMFgXUjFdpwxD_Cpz0k.png" group-title="Music",MUSIC TV
-https://mantul.biz.id:443/inetwork/gayanet12/10697.ts
-#EXTINF:-1 tvg-id="Music TV - [Channel 111].id" tvg-logo="https://www.visionplus.id/images/repository/009/50009-SNAPSHOT-l.png" group-title="Music",Music TV
-https://mantul.biz.id:443/user010223/user010223/10697.ts
-#EXTINF:-1 tvg-id="MTV LIVE - [Channel 148].id" tvg-logo="https://www.visionplus.id/images/repository/948/49948-SNAPSHOT-l.png" group-title="Music",MTV Live HD
-https://atemecdnbalancer-voe.sysln.id/live/eds/MTVLiveHD/mpd/MTVLiveHD.mpd
-#EXTINF:-1 tvg-id="MTV LIVE - [Channel 148].id" tvg-logo="https://www.visionplus.id/images/repository/948/49948-SNAPSHOT-l.png" group-title="Music",MTV Live HD
-https://mantul.biz.id:443/user010223/user010223/222.ts
-#EXTINF:-1 tvg-id="MTVLVHD" tvg-name="mtv live" tvg-logo="https://mantul.biz.id:443/images/HM3xx55KZnCUdlPuNC1k2IPJinOlJVnENfBFlS2f8OE-ZpS9tbHYlspguq7vtyTZEEmEiEcvc5XFhbRG4GLFbA.png" group-title="Music",MTV LIVE
-https://mantul.biz.id:443/inetwork/gayanet12/222.ts
 #EXTINF:-1 tvg-id="Musik Indonesia" tvg-logo="https://i.imgur.com/QHNH3oj.jpeg" group-title="Music",Musik Indonesia
 https://cdn08jtedge.indihometv.com/dassdvr/134/musikindo/manifest.mpd
-#EXTINF:-1 tvg-id="Musik Indonesia" tvg-logo="https://i.imgur.com/QHNH3oj.jpeg" group-title="Music",Musik Indonesia
-https://cdn08jtedge.indihometv.com/dassdvr/134/musikindo/manifest.mpd
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/I-Konser.png" group-title="Music",iKonser
-https://mantul.biz.id:443/user010223/user010223/4886.ts
 
 #EXTINF:-1 tvg-id="CitraDangdut.id" tvg-name="citra dangdut" tvg-logo="https://mantul.biz.id:443/images/mg9e4VnU5MiobcDarwnBsXKGt_Rf1VAV_lj7v55Bux4.png" group-title="Music",Citra Dangdut
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -2569,26 +2459,6 @@ https://play.accolamedia.id/accola/popmusic.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/HtcsrLv/Picsart-24-05-02-06-06-39-541.jpg" group-title="Music", MALEO
 https://play.accolamedia.id/accola/maleo.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="Music" tvg-logo="https://i.ibb.co.com/1vYtnYV/Smart-Select-20230609-100615-Picsart.jpg", M2O
-https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
-
-
-#EXTINF:-1 group-title="Music" tvg-logo="https://i.ibb.co.com/8rVKsmG/Smart-Select-20230609-105314-Picsart.jpg", MOLA HITS TV
-https://ventdelnord.tv:8080/mola/directe.m3u8
-http://ventdelnord.tv:8080/mola/directe.m3u8
-
-#EXTINF:-0 tvg-name="TV" tvg-logo="https://i.ibb.co.com/NpQc5Sv/K-Pop.jpg" group-title="Music", KPOP
-https://marine2.miplay.cl/kpop/playlist.m3u8
-
-#EXTINF:-0 tvg-name="TV" tvg-logo="https://i.ibb.co.com/NpQc5Sv/K-Pop.jpg" group-title="Music", KPOP PLAY
-https://live.24hrkpop.com/hls/3/stream.m3u8
-https://ssh101-fl.bozztv.com/ssh101/kpoptv/playlist.m3u8
-https://250weu.bozztv.com/ssh101/ssh101/kpoptv/playlist.m3u8
-https://live.24hrkpop.com/hls/3/stream.m3u8
-
-#EXTINF:-0 tvg-name="TV" tvg-logo="https://i.ibb.co.com/nLTxfw1/K-pop.jpg" group-title="Music", THE KPOP
-https://raw.githubusercontent.com/AqFad2811/randomlivefromyt/main/TheKPOP2.m3u8
-
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu-jos.fiqriaw8.workers.dev/dcub
@@ -2601,36 +2471,10 @@ https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c685730a4243017317dee5d
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/vdrhtf9/Smart-Select-20230611-122931-Picsart.jpg" group-title="Music", NUSANTARA
 https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c685758bcfff0175ab9d2b374926/manifest.mpd
 
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu-jos.fiqriaw8.workers.dev/dcub
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Ykcf7Gx/Smart-Select-20230610-155814-Picsart.jpg" group-title="Music", CLUBBING
-https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856fd0d66d017032d0246a7f90/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu-jos.fiqriaw8.workers.dev/dcub
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/9qzCbqr/Picsart-23-06-12-11-29-57-494.jpg" group-title="Music", SONG TV
-https://cdnjkt4.transvision.co.id:1000/live/master/100/4028c685840ff0490184560acf62436a/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/BLtnxMj/MIC-tv.jpg" group-title="Music", MUSIC INFORMATION CHANNEL
 https://v2.siar.us/mic/live/playlist.m3u8
-#EXTINF:-1 tvg-id="MTVAsia.sg" tvg-name="my: mtv asia" tvg-logo="https://mantul.biz.id:443/images/TJC7rhtnO3ZKX8c3jrf5EFsGlOXwsm6GQtqyzSBNrpNwwrMe604GQioDGB3Nd37Flk5Eiv73WhaFgmVlS29Aj_qm570oMuICrIvPD3ZjmUo.png" group-title="Music",MY: MTV Asia
-http://exm3u.extraott.com:900/live/H8M38PVP/GWAVW3MR/191993.m3u8
-#EXTINF:-1 tvg-id="SunMusic.in" tvg-name="my: sun music hd" tvg-logo="https://mantul.biz.id:443/images/TJC7rhtnO3ZKX8c3jrf5EFsGlOXwsm6GQtqyzSBNrpNwwrMe604GQioDGB3Nd37Flk5Eiv73WhaFgmVlS29Aj_QdIh85zrQX_85cHSqHbsI.png" group-title="Music",MY: SUN MUSIC HD
-https://mantul.biz.id:443/inetwork/gayanet12/6150.ts
-#EXTINF:-1 tvg-name="prambors tv" tvg-logo="https://mantul.biz.id:443/images/e5sT0tD9s9hK9s3OEoEMyp4lskNywFzmtxmiIb2VCzkOMoyIgNQrUNiYQRd2cUGayL0DO440tR46XyF8Q5M4Lg.jpg" group-title="Music",Prambors TV
-https://mantul.biz.id:443/inetwork/gayanet12/83.ts
-#EXTINF:-1 tvg-name="uk: mtv hits" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/b8a13ece3e61f706b0ba8b65784a39df.png" group-title="Music",UK: Mtv Hits
-http://aflaxtv.xyz:8080/Wat068/924a937d/302302
-#EXTINF:-1 tvg-id="" tvg-name="US: MTV Hits" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/b8a13ece3e61f706b0ba8b65784a39df.png" group-title="Music",US: MTV Hits
-http://aflaxtv.xyz:8080/Wat068/924a937d/4736
-#EXTINF:-1 tvg-id="" tvg-name="GR: Dipso TV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Music",GR: Dipso TV
-http://aflaxtv.xyz:8080/Wat068/924a937d/47366
-#EXTINF:-1 tvg-id="" tvg-name="US: MTV 90s" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/7d4becbed0d461d8dc25ae62ea473f97.png" group-title="Music",US: MTV 90s
-http://aflaxtv.xyz:8080/Wat068/924a937d/5352
 
-
-=============================
+============================================================end music=======================================================
 --------------------------------------- HOROR INDO-------------------------------------------
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/4/4d/Poster_Kemah_Terlarang.jpg" group-title="📺HOROR INDO📺",⭐Kemah Terlarang: Kesurupan Massal(2024)
 https://mastertv.tech/VOD1/HOROR/Kemah.Terlarang.mp4
