@@ -211,6 +211,14 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash/MNCnews-HDD.mpd
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://cempedak-cdn-fly.mncnow.id/live/eds/MNCTV-HD/sa_dash/MNCTV-HD.mpd
 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
+#EXTINF:-1 group-title="🔴TV DIGITAL NASIONAL" tvg-id="Sindo News TV HD - [Channel 434].id"tvg-url="" tvg-logo="https://iili.io/JV3xQN2.png",SindoNews
+https://cempedak-cdn-fly.mncnow.id/live/eds/MNCnews-HDD/sa_dash/MNCnews-HDD.mpd|license_type=com.widevine.alpha&license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm&referrer=https://visionplus.id
+EXTVLCOPT:http-referrer=https://www.visionplus.id/
+
 ==========================================================
 
 #EXTINF:-1 group-title="📺MOVIE NASIONAL📺"  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhI1fKaOepEpqR_E-56pimzEjBj8vH0Xfa7MDkIphFS9XIxRLDCPAjPX3q87Foy_jPAmFIEl7cze-LmLPivh8Q8oyvp1Bte2c5hOEwUzvQl9LeYS_i7eW5eUeA2ANJdUx918Obpj4bX38gGy-h3VE6J4RIvPNEfoPl_ua0FnVXeFrsUJu9xw2ujMtX4Hokp/s700/MAXSTREAM.jpeg",⭐ MAXSTREAM
